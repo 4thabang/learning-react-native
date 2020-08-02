@@ -5,7 +5,7 @@ export default function BottomText() {
     return (
         <>
         <View>
-            <Text>This is bottom text</Text>
+            <Text>Demo</Text>
         </View>
         </>
     )
